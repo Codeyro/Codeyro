@@ -4,7 +4,6 @@
 🌱 I’m currently learning Java, Java-script.   
 💞️ I'm interested in collaborating on the development of desktop and web applications.   
 📫 You can write to me on E-mail: codeyroc@gmail.com   
-😄 Pronouns: he/him   
 ✨ Fun fact: If a cat likes to sleep on the keyboard, it means that in a previous life he was a programmer.   
 <!---
 Codeyro/Codeyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
