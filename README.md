@@ -1,5 +1,4 @@
-👋 Hi, I’m @Codeyro   
-- Make it easier  
+👋 Hi, I’m @Codeyro • Make it easier  
 👀 I’m interested in design and programming on Python, c+, HTML, CSS.     
 🛠 I also enjoy creating robots and other interesting devices.   
 🌱 I’m currently learning Java, Java-script.   
