@@ -1,7 +1,7 @@
 👋 Hi, I’m @Codeyro • Make it easier  
 👀 I’m interested in design and programming on Python, c+, HTML, CSS.     
 🛠 I also enjoy creating robots and other interesting devices.   
-🌱 I’m currently learning Java, Java-script.   
+🌱 I’m currently learning Java, Java-script, Kotlin.   
 💞️ I'm interested in collaborating on the development of desktop and web applications.   
 📫 You can write to me on E-mail: codeyroc@gmail.com   
 ✨ Fun fact: If a cat likes to sleep on the keyboard, it means that in a previous life he was a programmer.   
